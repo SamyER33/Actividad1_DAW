@@ -1,0 +1,17 @@
+
+$primary: #b0f5c1;
+$secondary: #be7feb;
+
+.card {
+    background-color: $primary;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 35px;
+    color: #000;
+    border-radius: 30px;
+}
+
+.btn-info {
+    background-color: $secondary;
+    border-radius: 50px;
+}
